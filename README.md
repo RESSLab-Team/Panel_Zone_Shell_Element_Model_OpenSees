@@ -8,3 +8,5 @@ Both .cpp and .h file formats are included for one to integrate to the OpenSees 
 An example is also provided that utilized the developed FourNodeQuad2D3DOF element: Interior_Subassembly_Shell_Panel_Example.tcl
 
 In this example the highly inelastic panel zone is modeled with the developed element and the interior beam-to-column subassembly is imposed to cyclic symmetric loading protocol. 
+
+The OpenSees executable that includes the developed element is also provided.
